@@ -1,0 +1,7 @@
+Please provide length of the password: 20
+Should password contain letters (y/n): y
+Should password contain numbers (y/n): y
+Should password contain special characters (y/n): y
+======================================== RUNNING PASSWORD GENERATOR TOOL ========================================
+Password has been generated!
+> Randomly generated password: 333KE>Kz}^X?hFs}B7:~
